@@ -3,3 +3,11 @@
 https://es.wikipedia.org/wiki/Pou_(videojuego) 
 
 ![qr-proyecto](https://github.com/icamanes/Redes/assets/156670475/6f690cdd-5186-4d2a-8a33-f174413c7062)
+| Juegos |  Tiempo| Premios |
+|--|--|--|
+|  Coche|1:00  |  1 Moneda|
+|  Saltos|  2:00| 2 Monedas |
+```bash
+ls -lah
+cd directorio
+```
